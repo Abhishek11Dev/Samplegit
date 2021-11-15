@@ -1,2 +1,3 @@
 #! /bin/bash
-echo "helo world"
+echo "helo abhishek "
+touch newabhishek.txt
